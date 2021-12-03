@@ -129,7 +129,7 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "build:css": "tailwind build  src/style.css -o public/style.css"
+    "build:css": "tailwind build  src/style.css -o docs/style.css"
   },
   "author": "",
   "license": "ISC",
